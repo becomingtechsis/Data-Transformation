@@ -8,7 +8,7 @@ AdventureWorks Database is a Microsoft product sample for an online transaction 
 
 
 ## Highlight
-Referring back to the email, I’m able to identify tables I’ll need for this report transformation.
+The tables I'll be cleaning are;
 -	[Internet sales](https://github.com/becomingtechsis/Adventure-Works-DB/blob/main/Fact_Internet%20sales.csv)
 -	[Customer table](https://github.com/becomingtechsis/Adventure-Works-DB/blob/main/DIM_Customers.csv)
 -	[Product table](https://github.com/becomingtechsis/Adventure-Works-DB/blob/main/DIM_Products.csv)
